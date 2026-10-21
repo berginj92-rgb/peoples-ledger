@@ -1,7 +1,17 @@
 {
  "version": 1,
- "updated": "2026-10-21T10:00:00Z",
- "notices": [],
+ "updated": "2026-10-21T11:00:00Z",
+ "notices": [
+  {
+   "id": "vic-roll-closes",
+   "text": "Victorian election: you need to be correctly enrolled by 8 pm on Tuesday 3 November to vote on 28 November.",
+   "source": {
+    "label": "2026 state election",
+    "publisher": "Victorian Electoral Commission",
+    "url": "https://www.vec.vic.gov.au/voting/2026-state-election"
+   }
+  }
+ ],
  "vic": {
   "assembly": null,
   "candidates": null,
